@@ -4,7 +4,10 @@ emoji: "📝"
 type: "tech"
 topics: ["php", "certification", "study", "beginner", "engineer"]
 published: false
+published_at: "2021-04-12 01:57"
 ---
+
+> 初出: 2021年4月12日(旧ブログの記事を移行・加筆)
 
 介護業界からIT業界に転職し、未経験からPHP技術者認定試験 初級に合格しました。本記事では、その勉強法と試験対策をまとめます。これから同資格の取得を目指す方や、未経験からPHPを学び始めたい方に向けた内容です。
 
