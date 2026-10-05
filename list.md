@@ -56,6 +56,7 @@
 | [RDS for MySQL upgrade task tomorrow(英語日記)](./article/english-diary-rds-upgrade-task.md) | AWS | 日記・体験談 |
 | [I will start studying English again(英語日記: 英語学習の再開)](./article/english-diary-restart-english-study.md) | その他 | 日記・体験談 |
 | [I am a third-rate programmer(英語日記: 自己紹介)](./article/english-diary-third-rate-programmer.md) | その他 | 日記・体験談 |
+| [English grammar first step](./article/english-grammar-first-step.md) | その他 | 技術解説 |
 | [Exifデータとは？写真に隠れた情報とプライバシーの注意点](./article/exif-data-privacy-basics.md) | その他 | 技術解説 |
 | [【反省】エンジニア歴1年で初めてのリリース。良かったことと反省点](./article/first-release-reflection-year1.md) | PHP | 日記・体験談 |
 | [Gitの基礎の基礎: 基本の流れと主要コマンド](./article/git-basics-for-beginners.md) | その他 | 技術解説 |
